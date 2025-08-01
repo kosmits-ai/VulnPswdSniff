@@ -1,4 +1,4 @@
-# 🔐 VulnPswdSniff
+# VulnPswdSniff
 
 Welcome to **VulnPswdSniff**, an open-source Python tool for evaluating the strength of input passwords.
 
