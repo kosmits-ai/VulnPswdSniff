@@ -30,7 +30,7 @@ Passwords are classified into one of four strength levels:
 
 ###  Logic Structure
 
-![Logic structure](images/flow.jpg)
+![Logic structure](images/tool_logic.jpg)
 
 ---
 
