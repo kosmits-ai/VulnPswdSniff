@@ -1,6 +1,6 @@
 # VulnPswdSniff
 
-Welcome to **VulnPswdSniff**, an open-source Python tool for evaluating the strength of input passwords.<br>
+Welcome to **VulnPswdSniff**, an open-source Python tool for evaluating the strength of input passwords.<br><br>
 Visit the [website](https://vulnpswdsniffer.streamlit.app/) of the tool.
 ---
 
