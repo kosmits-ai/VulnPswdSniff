@@ -243,9 +243,6 @@ if st.session_state.get("Submitted"):
         )
 
     with col3:
-        
-        
-
         st.markdown(
         f"""
         <div style='
